@@ -1,1 +1,2 @@
 Sunny 90 degrees
+Partly cloudy 90 degrees 
